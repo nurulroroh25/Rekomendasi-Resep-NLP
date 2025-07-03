@@ -3,7 +3,7 @@ pandas
 numpy
 scikit-learn
 transformers==4.30.2
-torch==2.0.1+cpu
+torch==2.0.1+cpu -f https://download.pytorch.org/whl/cpu/torch_stable.html
 sentencepiece==0.1.99
 protobuf==3.20.*
 regex
